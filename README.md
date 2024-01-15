@@ -1,10 +1,10 @@
-Image Captioning with Transformer-based Model
+**Image Captioning with Transformer-based Model**
 Project Overview
 - Initialized the project by importing essential dependencies and setting up the groundwork for the Microsoft Common Objects in Context (MS-COCO) dataset.
 
 - Meticulously preprocessed the dataset, ensuring it was prepared for training through activities such as data cleaning, caption tokenization, and creating a seamless integration between image and text components.
 
-- Integrated a Vision Transformer (ViT) with a Transformer model, forming the core of the project. This fusion allowed the model to effectively learn spatial relationships within images, leading to the generation of meaningful captions.
+- Integrated a Transformer model, forming the core of the project. This fusion allowed the model to effectively learn spatial relationships within images, leading to the generation of meaningful captions.
 
 - Fine-tuned the model's architecture by optimizing hyperparameters and adjusting parameters to better align with the specific requirements of image captioning.
 
